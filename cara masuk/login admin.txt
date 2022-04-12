@@ -1,0 +1,6 @@
+login admin
+email = andisand@gmail.com
+pass  = 123456
+login Operator
+email = andisand@gmail.com
+pass  = 123456
